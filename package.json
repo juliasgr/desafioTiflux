@@ -1,7 +1,6 @@
 {
   "name": "minha-lista-tarefas",
   "version": "1.0.0",
-  "homepage": "https://juliasgr.github.io/minha-lista-tarefas",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
